@@ -25,3 +25,26 @@ nav a {
     margin-bottom: 20px;
     border-radius: 10px;
 }
+
+h1 {
+    color: #222;
+}
+
+h2 {
+    color: #444;
+    margin-top: 40px;
+}
+
+p, li {
+    line-height: 1.6;
+}
+
+.resume-button {
+    background-color: #222;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    display: inline-block;
+    margin-top: 10px;
+}
